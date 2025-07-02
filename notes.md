@@ -2,7 +2,6 @@
 
 - WebRTC works on UDP(User Datagram Protocol) protocol
 - uses DTLS (Datagram TLS) for secure key exchange.
-- initially TCP connection is made that sends the signal of upgrade and UDP connection is made
 - data packets aren't 100% sure to deliver, hence used in video calling
 
 ### STUN and ICE
